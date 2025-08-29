@@ -30,4 +30,4 @@ E para rodar o servidor de desenvolvimento, execute o seguinte comando:
 npm run dev
 ```
 
-O servidor irá iniciar em [http://localhost:3000](http://localhost:3000)
+O servidor irá iniciar em [http://localhost:3000](http://localhost:3001)
